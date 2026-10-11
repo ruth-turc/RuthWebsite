@@ -16,7 +16,7 @@ img {
 .header{
     padding: 80px; /* some padding */
     text-align: center; /* center the text */
-    background: #a1adc9;
+    background: #4A6987;
     color:white; /*white text color */
 }
 
@@ -28,7 +28,7 @@ img {
 /* Style the top navigation bar */
 .navbar {
     overflow: hidden; /* hide overflow */
-    background-color: #5a5a5a; /* dark background color */
+    background-color: #19242E; /* dark background color */
 }
 
 /* style navigation bar links */
@@ -75,21 +75,21 @@ img {
     sidebar / left column */
 .side {
     flex: 30%;
-    background-color: #f1f1f1;
+    background-color: #D1DBE6;
     padding: 20px;
 }
 
 /* Main column */
 .main {
     flex: 70%;
-    background-color: white;
+    background-color: #EFF2F6;
     padding: 20 px;
 }
 
 .footer {
     padding: 20px;
     text-align: center;
-    background: #ddd;
+    background: #96ADC5;
 }
 
 .video-container {
